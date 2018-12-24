@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bill</string>
+    <string name="bill_name">Bill name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_cost">Enter cost</string>
+
+</resources>
